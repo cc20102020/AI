@@ -12,7 +12,7 @@ int main()
     
     printf("Hello World");  //this is modified by fork000
     
-    //this part modified by fork006
+    e = 5;	//this part modified by fork006
     
     return 0;
 }
