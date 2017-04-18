@@ -2,7 +2,7 @@
 
 int main()
 {
-    int a,b,c;  //this part modified by fork001
+    int a,b,c,d,e,f,g,h;  //this part modified by fork001
     
     a = 1;  //this part modified by fork001
     b = 2;  //this part modified by fork001
@@ -10,7 +10,7 @@ int main()
 
     d = 4;  //this part modified by fork006
     
-    printf("Hello World");  //this is modified by fork000
+    printf("Hello World\n");  //this is modified by fork000
     
     e = 5;	//this part modified by fork006
     
@@ -19,6 +19,8 @@ int main()
     g = 7;	//this part modified by fork006
     
     h = 8;  //this part modified by fork006
+    
+    printf("hello World!");
     
     return 0;
 }
