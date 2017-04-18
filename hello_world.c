@@ -17,5 +17,8 @@ int main()
     f = 6;	//this part modified by fork006
     
     g = 7;	//this part modified by fork006
+    
+    h = 8;  //this part modified by fork006
+    
     return 0;
 }
